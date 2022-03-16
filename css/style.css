@@ -1,0 +1,19 @@
+*{
+    /* background-color: navy; */
+    /* color: white; */
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#show-contact {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}  
